@@ -1,0 +1,21 @@
+{
+  "name": "jokebox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "local_server.js",
+  "scripts": {
+    "test": "npm run dev "
+  },
+  "repository": {
+    "type": "git",
+    "url": "JUKEBOX"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "http": "^0.0.1-security",
+    "morgan": "^1.10.0"
+  }
+}
